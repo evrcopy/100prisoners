@@ -14,3 +14,6 @@ node ./run.js
 
 Tip:
 * Try changing the algo to `RandAlgo` and see if you can find a solution
+
+Challenge:
+* There's a bug, bonus points if you can find it :)
